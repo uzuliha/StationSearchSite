@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>駅名検索ツール</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <main>
+
+        <h1>駅名検索ツール</h1>
+
+        <section>
+            <h2>駅名の頭文字</h2>
+
+            <input
+                type="text"
+                id="initial"
+                maxlength="1"
+                placeholder="例：あ"
+                inputmode="hiragana"
+            >
+        </section>
+
+        <section>
+            <h2>都道府県</h2>
+
+            <div id="prefecture-list"></div>
+        </section>
+
+        <button id="search-button">
+            検索
+        </button>
+
+        <section>
+            <h2>検索結果</h2>
+
+            <ul id="result"></ul>
+        </section>
+
+    </main>
+
+    <script src="js/prefecture.js"></script>
+    <script src="js/stationSearch.js"></script>
+    <script src="js/main.js"></script>
+
+    <footer>
+        <p>
+            駅データ：
+            <a href="https://github.com/Seo-4d696b75/station_database"
+               target="_blank"
+               rel="noopener">
+                Seo-4d696b75 / station_database
+            </a>
+            （CC BY 4.0）
+        </p>
+    </footer>
+
+</body>
+
+</body>
+
+</html>
+```
