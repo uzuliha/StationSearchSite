@@ -37,7 +37,14 @@ searchButton.addEventListener("click", () => {
     const initial =
         initialInput.value.trim();
 
-    if (initial !== "" && !/^[ぁ-ん]$/.test(initial)) {
+    if (initial === "") {
+        displayMessage(
+            "頭文字をひらがな1文字で入力してください。"
+        );
+        return;
+    }
+
+    if (!/^[ぁ-ん]$/.test(initial)) {
         displayMessage(
             "頭文字はひらがな1文字で入力してください。"
         );
