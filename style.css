@@ -96,12 +96,34 @@ h2 {
     margin-bottom: 8px;
     background-color: white;
     border-radius: 8px;
+
     font-size: 18px;
 }
 
+/* 駅名・よみがな */
+
+.station-info {
+    min-width: 0;
+    flex: 1;
+}
+
 .station-kana {
+    margin-top: 4px;
+
     font-size: 14px;
     color: #777;
+}
+
+/* 路線名 */
+
+.station-line {
+    margin-left: 16px;
+
+    font-size: 14px;
+    color: #555;
+    text-align: right;
+
+    white-space: nowrap;
 }
 
 footer {
