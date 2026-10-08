@@ -33222,7 +33222,7 @@
         "id":  3692,
         "name":  "大聖寺",
         "kana":  "だいしょうじ",
-        "line":  11415,
+        "line":  99426,
         "prefecture":  17,
         "latitude":  36.300311,
         "longitude":  136.314205
@@ -33240,7 +33240,7 @@
         "id":  3694,
         "name":  "動橋",
         "kana":  "いぶりはし",
-        "line":  11415,
+        "line":  99426,
         "prefecture":  17,
         "latitude":  36.328428,
         "longitude":  136.383027
@@ -33249,7 +33249,7 @@
         "id":  3695,
         "name":  "粟津",
         "kana":  "あわづ",
-        "line":  11415,
+        "line":  99426,
         "prefecture":  17,
         "latitude":  36.35575,
         "longitude":  136.424544
@@ -33267,7 +33267,7 @@
         "id":  3697,
         "name":  "明峰",
         "kana":  "めいほう",
-        "line":  11415,
+        "line":  99426,
         "prefecture":  17,
         "latitude":  36.425302,
         "longitude":  136.463114
@@ -33276,7 +33276,7 @@
         "id":  3698,
         "name":  "能美根上",
         "kana":  "のみねあがり",
-        "line":  11415,
+        "line":  99426,
         "prefecture":  17,
         "latitude":  36.452053,
         "longitude":  136.459721
@@ -33285,7 +33285,7 @@
         "id":  3699,
         "name":  "小舞子",
         "kana":  "こまいこ",
-        "line":  11415,
+        "line":  99426,
         "prefecture":  17,
         "latitude":  36.476371,
         "longitude":  136.474925
@@ -33294,7 +33294,7 @@
         "id":  3700,
         "name":  "美川",
         "kana":  "みかわ",
-        "line":  11415,
+        "line":  99426,
         "prefecture":  17,
         "latitude":  36.486001,
         "longitude":  136.489205
@@ -33303,7 +33303,7 @@
         "id":  3701,
         "name":  "加賀笠間",
         "kana":  "かがかさま",
-        "line":  11415,
+        "line":  99426,
         "prefecture":  17,
         "latitude":  36.502935,
         "longitude":  136.527434
@@ -33312,7 +33312,7 @@
         "id":  3702,
         "name":  "松任",
         "kana":  "まっとう",
-        "line":  11415,
+        "line":  99426,
         "prefecture":  17,
         "latitude":  36.526706,
         "longitude":  136.566205
@@ -33321,7 +33321,7 @@
         "id":  3703,
         "name":  "野々市",
         "kana":  "ののいち",
-        "line":  11415,
+        "line":  99426,
         "prefecture":  17,
         "latitude":  36.541644,
         "longitude":  136.598044
@@ -33330,7 +33330,7 @@
         "id":  3704,
         "name":  "西金沢",
         "kana":  "にしかなざわ",
-        "line":  11415,
+        "line":  99426,
         "prefecture":  17,
         "latitude":  36.553212,
         "longitude":  136.621225
@@ -33897,7 +33897,7 @@
         "id":  3767,
         "name":  "南今庄",
         "kana":  "みなみいまじょう",
-        "line":  11415,
+        "line":  99455,
         "prefecture":  18,
         "latitude":  35.757424,
         "longitude":  136.184723
@@ -33906,7 +33906,7 @@
         "id":  3768,
         "name":  "今庄",
         "kana":  "いまじょう",
-        "line":  11415,
+        "line":  99455,
         "prefecture":  18,
         "latitude":  35.772947,
         "longitude":  136.199279
@@ -33915,7 +33915,7 @@
         "id":  3769,
         "name":  "湯尾",
         "kana":  "ゆのお",
-        "line":  11415,
+        "line":  99455,
         "prefecture":  18,
         "latitude":  35.803251,
         "longitude":  136.193007
@@ -33924,7 +33924,7 @@
         "id":  3770,
         "name":  "南条",
         "kana":  "なんじょう",
-        "line":  11415,
+        "line":  99455,
         "prefecture":  18,
         "latitude":  35.831956,
         "longitude":  136.193391
@@ -33933,7 +33933,7 @@
         "id":  3771,
         "name":  "王子保",
         "kana":  "おうしお",
-        "line":  11415,
+        "line":  99455,
         "prefecture":  18,
         "latitude":  35.866259,
         "longitude":  136.165595
@@ -33942,7 +33942,7 @@
         "id":  3772,
         "name":  "武生",
         "kana":  "たけふ",
-        "line":  11415,
+        "line":  99455,
         "prefecture":  18,
         "latitude":  35.903254,
         "longitude":  136.170913
@@ -33951,7 +33951,7 @@
         "id":  3773,
         "name":  "鯖江",
         "kana":  "さばえ",
-        "line":  11415,
+        "line":  99455,
         "prefecture":  18,
         "latitude":  35.943355,
         "longitude":  136.188852
@@ -33960,7 +33960,7 @@
         "id":  3774,
         "name":  "北鯖江",
         "kana":  "きたさばえ",
-        "line":  11415,
+        "line":  99455,
         "prefecture":  18,
         "latitude":  35.971496,
         "longitude":  136.198452
@@ -33969,7 +33969,7 @@
         "id":  3775,
         "name":  "大土呂",
         "kana":  "おおどろ",
-        "line":  11415,
+        "line":  99455,
         "prefecture":  18,
         "latitude":  36.010546,
         "longitude":  136.216519
@@ -33978,7 +33978,7 @@
         "id":  3776,
         "name":  "越前花堂",
         "kana":  "えちぜんはなんどう",
-        "line":  11415,
+        "line":  99455,
         "prefecture":  18,
         "latitude":  36.038771,
         "longitude":  136.218073
@@ -33996,7 +33996,7 @@
         "id":  3778,
         "name":  "森田",
         "kana":  "もりた",
-        "line":  11415,
+        "line":  99455,
         "prefecture":  18,
         "latitude":  36.109381,
         "longitude":  136.222516
@@ -34005,7 +34005,7 @@
         "id":  3779,
         "name":  "春江",
         "kana":  "はるえ",
-        "line":  11415,
+        "line":  99455,
         "prefecture":  18,
         "latitude":  36.129004,
         "longitude":  136.228487
@@ -34014,7 +34014,7 @@
         "id":  3780,
         "name":  "丸岡",
         "kana":  "まるおか",
-        "line":  11415,
+        "line":  99455,
         "prefecture":  18,
         "latitude":  36.162595,
         "longitude":  136.233502
@@ -34032,7 +34032,7 @@
         "id":  3782,
         "name":  "細呂木",
         "kana":  "ほそろぎ",
-        "line":  11415,
+        "line":  99455,
         "prefecture":  18,
         "latitude":  36.24125,
         "longitude":  136.256968
@@ -34041,7 +34041,7 @@
         "id":  3783,
         "name":  "牛ノ谷",
         "kana":  "うしのや",
-        "line":  11415,
+        "line":  99455,
         "prefecture":  18,
         "latitude":  36.259409,
         "longitude":  136.281618
@@ -81250,5 +81250,14 @@
         "prefecture":  47,
         "latitude":  26.241778,
         "longitude":  127.741861
+    },
+    {
+        "id":  0,
+        "name":  "",
+        "kana":  "",
+        "line":  0,
+        "prefecture":  0,
+        "latitude":  0,
+        "longitude":  0
     }
 ]
